@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+// g++ -o tp-4  ./tp-4.c
+// ./tp-4.exe
+
 int main(void)
 {
 

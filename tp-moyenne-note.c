@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+// g++ -o tp-moyenne-note  ./tp-moyenne-note.c
+// ./tp-moyenne-note.exe
+
 int main()
 {
     float N1, N2, N3, N4, N5, somme, result;

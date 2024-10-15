@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+// g++ -o tp-echange-variable  ./tp-echange-variable.c
+// ./tp-echange-variable.exe
+
 int main()
 {
 

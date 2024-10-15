@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+// g++ -o tp-age  ./tp-age.c
+// ./tp-age.exe
+
 int main()
 {
     int annee_naissance, age;

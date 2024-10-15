@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+// g++ -o tp-1  ./tp-1.c
+// ./tp-1.exe
+
 int main(void)
 {
     int num_mois;

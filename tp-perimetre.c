@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+// g++ -o tp-perimetre  ./tp-perimetre.c
+// ./tp-perimetre.exe
+
 int main()
 {
     int largeur, longeur;

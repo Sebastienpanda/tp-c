@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+// g++ -o tp-2  ./tp-2.c
+// ./tp-2.exe
+
 int main(void)
 {
     int a;

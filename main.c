@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+// g++ -o main  ./main.c
+// ./main.exe
+
 int main()
 {
     int age;

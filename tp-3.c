@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+// g++ -o tp-3  ./tp-3.c
+// ./tp-3.exe
+
 int main(void)
 {
 

@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+// g++ -o tp-age-category  ./tp-age-category.c
+// ./tp-age-category.exe
+
 int main()
 {
 

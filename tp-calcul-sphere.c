@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <math.h>
 
+// g++ -o tp-calcul-sphere  ./tp-calcul-sphere.c
+// ./tp-calcul-sphere.exe
+
 int main()
 {
 
